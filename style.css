@@ -1,0 +1,51 @@
+.Header {
+    background-color: rgb(1, 1, 109);
+    display: flex;
+    justify-content:space-between;
+    color: white;
+
+}
+
+.icons > img {
+    height: 80px;
+  
+  }
+
+  .page-container {
+    background-color: rgb(1, 1, 109);
+    display: flex;
+    justify-content:space-between;
+    color: white;
+
+}
+
+.tweede > img {
+    width: 300px;
+    height: auto;
+  
+  }
+
+  .Vuurwerk {
+    background-color: rgb(1, 1, 109);
+    display: flex;
+    justify-content:space-between;
+    color: white;
+    
+}
+
+.foto > img {
+    height: 90px;
+  
+  }
+
+  html, body {
+    background-color:rgb(1, 1, 109);
+    margin: 0%;
+    height: 100%;
+  }
+
+  .Eerste  {width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  }
